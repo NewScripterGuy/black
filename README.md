@@ -38,3 +38,5 @@ rest behind these ids are ppl who age gapped or cheated
 5565450091 - exploits
 4170444648 - exploits
 4282820815 - exploits
+5418802985 - age gap
+4586720226 - age gap
