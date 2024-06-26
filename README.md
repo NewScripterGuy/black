@@ -42,3 +42,7 @@ rest behind these ids are ppl who age gapped or cheated
 4586720226 - age gap
 439763349 - impersonating an admin
 4442371582 - exploiting
+2302287905 - age gap
+262021539 - age gap
+6064727144 - age gap
+5782000161 - exploiting
